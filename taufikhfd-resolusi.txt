@@ -2,3 +2,4 @@
 - Harus bisa coding 
 - Konsisten dalam membuat design
 - Ingin menjadi Web Devloment
+- Membangun literasi dengan orang expert dibidang pengcodingan
